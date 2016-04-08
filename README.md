@@ -12,13 +12,13 @@ NASM 2.12 - [link][df2]
 
 ### Compiling the code:
 
-After starting MS DOS use comand:
+After starting MS DOS use command:
 
 ```sh
 nasm main.asm -f bin -o main.com
 ```
 
-If you just want to run the application you cna use the provided binary.
+If you just want to run the application you can use the provided binary.
 
 ### Running the aplication:
 
