@@ -2,7 +2,7 @@
 
 ### About the aplication
 
-COM aplication written for MS-DOS 8086. The main functionality of the application is making a ScreenShoot. ScreenShoot is take as a copy of content of DOS windows and saved in a text file.
+COM aplication written for MS-DOS 8086. The main functionality of the application is making a ScreenShoot. ScreenShoot functionality takes copy of the content of DOS windows and saves it in a text file.
 
 ### Tools used
 
