@@ -34,7 +34,7 @@ Examples of working lines:
 main.com -start ss.txt
 ```
 
-
+After running the application press F10 to take a ScreenShoot
 
 [df1]: http://www.dosbox.com/download.php?main=1
 [df2]: http://www.nasm.us/pub/nasm/releasebuilds/2.12.01/
